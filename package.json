@@ -1,0 +1,19 @@
+{
+    "name": "01",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "01:1": "ts-node src/01/part1/index.ts",
+        "01:2": "ts-node src/01/part2/index.ts"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^16.4.8"
+    },
+    "dependencies": {
+        "ts-node": "^10.1.0",
+        "typescript": "^4.3.5"
+    }
+}
