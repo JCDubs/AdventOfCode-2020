@@ -7,7 +7,8 @@
         "01:1": "ts-node src/01/part1/index.ts",
         "01:2": "ts-node src/01/part2/index.ts",
         "02:1": "ts-node src/02/part1/index.ts",
-        "02:2": "ts-node src/02/part2/index.ts"
+        "02:2": "ts-node src/02/part2/index.ts",
+        "03:1": "ts-node src/03/part1/index.ts"
     },
     "author": "",
     "license": "ISC",
